@@ -1,7 +1,7 @@
-package com.cloud.serviceprovider.controller;
+package com.itmuch.cloud.controller;
 
-import com.cloud.serviceprovider.entity.User;
-import com.cloud.serviceprovider.repository.UserRepository;
+import com.itmuch.cloud.entity.User;
+import com.itmuch.cloud.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

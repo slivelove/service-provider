@@ -1,4 +1,4 @@
-package com.cloud.serviceprovider.entity;
+package com.itmuch.cloud.entity;
 
 import lombok.Data;
 
